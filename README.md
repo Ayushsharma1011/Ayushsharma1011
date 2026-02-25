@@ -20,7 +20,12 @@ Full Stack Developer and UI/UX Designer focused on building modern, responsive, 
 - Polished UI with strong UX decisions
 - Interactive experiences with modern frontend tooling
 
-## Live Websites
+## Live Freelance Projects
+- [lookindharamshala.in](https://lookindharamshala.in/)
+- [rajeshwaritantra.com](https://www.rajeshwaritantra.com/)
+- [healsesh.in](https://www.healsesh.in/)
+- [studentzone.lookindharamshala.in](https://studentzone.lookindharamshala.in/)
+- [kangrachessclub.com](https://www.kangrachessclub.com/)
 - [synergyayush.com](https://www.synergyayush.com)
 - [bhagwaticlinic1955.com](https://www.bhagwaticlinic1955.com)
 
