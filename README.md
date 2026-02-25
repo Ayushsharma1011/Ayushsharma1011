@@ -1,6 +1,9 @@
 # Hi, I'm Ayush Sharma
 
 <p align="left">
+  <a href="https://github.com/Ayushsharma1011" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=Ayushsharma1011&label=Profile%20Views&color=0f172a&style=for-the-badge" />
+  </a>
   <a href="https://www.synergyayush.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit_Now-0f172a?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
@@ -21,6 +24,18 @@ Full Stack Developer and UI/UX Designer focused on building modern, responsive, 
 - [synergyayush.com](https://www.synergyayush.com)
 - [bhagwaticlinic1955.com](https://www.bhagwaticlinic1955.com)
 
+## Repositories
+- Total repositories: **9**
+- `Gaming-forge` (Private, collaborative)
+- `Veritas` (Private, collaborative)
+- [new-portfolio](https://github.com/Ayushsharma1011/new-portfolio) - Vite + React portfolio project
+- [kangrachessclub](https://github.com/Ayushsharma1011/kangrachessclub) - Chess club website
+- [lookin](https://github.com/Ayushsharma1011/lookin) - Private JavaScript project
+- [Ayushsharma1011](https://github.com/Ayushsharma1011/Ayushsharma1011) - Profile repository
+- [StudentZone](https://github.com/Ayushsharma1011/StudentZone) - Student-focused web platform
+- [Pandit-Website](https://github.com/Ayushsharma1011/Pandit-Website) - Service/business website
+- [physchological-website-Doc-](https://github.com/Ayushsharma1011/physchological-website-Doc-) - Psychology website project
+
 ## Tech Stack
 
 ### Core
@@ -40,12 +55,12 @@ Full Stack Developer and UI/UX Designer focused on building modern, responsive, 
 
 ## GitHub Highlights
 <p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=transparent&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=transparent&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ayushsharma1011&show_icons=true&theme=transparent&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushsharma1011&layout=compact&theme=transparent&hide_border=true" />
 </p>
 
 <p>
-  <img src="https://streak-stats.demolab.com?user=your-github-username&theme=transparent&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Ayushsharma1011&theme=transparent&hide_border=true" />
 </p>
 
 ## Connect
@@ -55,4 +70,3 @@ Full Stack Developer and UI/UX Designer focused on building modern, responsive, 
 ---
 
 Always learning. Always building. Always improving.
-
