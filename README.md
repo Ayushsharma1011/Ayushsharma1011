@@ -93,7 +93,7 @@ Full Stack Developer and UI/UX Designer focused on building modern, responsive, 
 # 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/Ayushsharma1011/Ayush/blob/output/github-contribution-grid-snake.svg"/>
+  <img src="https://github.com/Ayushsharma1011/Ayushsharma1011/blob/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
