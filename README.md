@@ -110,6 +110,12 @@ I enjoy turning **ideas into polished digital products**.
 
 ---
 
+# 📊 GitHub Metrics Dashboard
+
+![Metrics](https://github.com/Ayushsharma1011/Ayushsharma1011/blob/main/github-metrics.svg)
+
+---
+
 # 🏆 GitHub Achievements
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Ayushsharma1011\&theme=algolia\&no-frame=true\&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
