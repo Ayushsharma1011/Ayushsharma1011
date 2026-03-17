@@ -1,4 +1,4 @@
-<!-- Typing Animation -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=120&section=header"/>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;React+%7C+Next.js+Developer;UI%2FUX+Designer;Building+Modern+Web+Apps&center=true&width=650&height=45">
@@ -86,21 +86,48 @@ I enjoy turning **ideas into polished digital products**.
 
 ---
 
-# 📈 GitHub Activity
+# 📈 Developer Activity
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ayushsharma1011\&theme=github-compact\&hide_border=true)
 
 ---
 
-# 🏆 GitHub Achievements
+# 🧊 3D Contribution Visualization
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ayushsharma1011\&theme=algolia\&no-frame=true\&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ayushsharma1011&theme=github_dark"/>
 
 ---
 
-# 🌌 Contribution Dashboard
+# 📊 GitHub Analytics Dashboard
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ayushsharma1011&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ayushsharma1011&theme=github_dark"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ayushsharma1011&theme=github_dark"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ayushsharma1011&theme=github_dark"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ayushsharma1011&theme=github_dark"/>
+
+---
+
+# 🏆 GitHub Achievements
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ayushsharma1011\&theme=algolia\&no-frame=true\&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+# 🤖 Auto Updated Coding Stats
+
+<!--START_SECTION:waka-->
+
+```text
+React        ████████████░░░░░░░   60%
+Next.js      █████████░░░░░░░░░░   45%
+Tailwind     ███████░░░░░░░░░░░░   30%
+JavaScript   ███████████░░░░░░░░   55%
+```
+
+<!--END_SECTION:waka-->
 
 ---
 
@@ -120,15 +147,12 @@ I enjoy turning **ideas into polished digital products**.
 
 ---
 
-# 📅 Daily Update
+# ⭐ Support My Work
 
-<!--START_DAILY-->
-
-• Last updated (UTC): 2026-02-25
-• Current focus: Building modern full-stack web apps with React, Next.js and Supabase.
-
-<!--END_DAILY-->
+If you like my projects consider giving a ⭐ to my repositories.
 
 ---
 
 ⭐ Always learning. Always building. Always improving.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=120&section=footer"/>
